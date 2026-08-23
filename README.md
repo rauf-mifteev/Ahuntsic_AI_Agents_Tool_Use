@@ -43,8 +43,7 @@ déterministe (`tests/doubles.py`).
   [langgraph](https://pypi.org/project/langgraph/),
   [langchain-anthropic](https://pypi.org/project/langchain-anthropic/),
   [langchain-core](https://pypi.org/project/langchain-core/), `typing_extensions`.
-- Une clé API Anthropic (`ANTHROPIC_API_KEY`) — **optionnelle**, utile uniquement pour la cellule
-  d'essai contre le vrai Claude. Les 28 tests passent sans aucune clé.
+- Une clé API Anthropic (`ANTHROPIC_API_KEY`) — utile pour la cellule d'essai contre le vrai Claude. 
 
 ## Exécution
 
